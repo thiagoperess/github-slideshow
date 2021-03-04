@@ -2,7 +2,7 @@
 
 No Linux, as permissões são definidas em três atributos: leitura, gravação e execução (no caso de arquivos) ou listagem do conteúdo (no caso das pastas). São representados, respectivamente pelas letras r (read), w (write), x (execute).
 
-Acesso aos arquivos
+Acesso aos arquivos - "Beautiful is better than ugly."
 
 Neste sistema, o acesso aos arquivos se dá por donos, grupos e usuários. Se usarmos o comando ls -l veremos as permissões de acesso:
 
